@@ -1,2 +1,2 @@
 # Svømmeklubben Delfinen
-Svømmeklubben Delfinen is a assignment that was made during the first semester as a computer science student.
+Svømmeklubben Delfinen is an assignment that was made during the first semester as a computer science student.
